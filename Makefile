@@ -7,7 +7,7 @@ client: client.c
 
 katie:
 	gcc client.c -o client
-	./client 2600:1010:b07f:c529:6c37:368b:f5a:3507
+	./client 2600:1012:b0c7:7251:c496:1a8c:cf02:39b4
 
 clean:
 	rm -f server client
